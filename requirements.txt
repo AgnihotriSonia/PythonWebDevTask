@@ -1,0 +1,8 @@
+geopandas
+pandas
+psycopg2
+folium
+shapely
+sqlalchemy
+
+
